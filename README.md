@@ -2,19 +2,8 @@
 
 -----
 
-## Table of Contents
+A repo containing workflows and examples for NGWPC deliverables
 
-- [Installation](#installation)
-- [License](#license)
-
-## Installation
-
-```console
-pip install ngwpc-cookbooks
-
-```
-
-## License
-
-`ngwpc-cookbooks
-` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
+Current cookbook examples:
+- coastal datum sync
+- hydrofabric creation from the reference fabric
